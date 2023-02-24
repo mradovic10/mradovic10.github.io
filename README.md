@@ -2,6 +2,6 @@
 
 Here is my HTML Bio.
 
-Thanks to Kelvin (@loweehahn) for the Wikipedia random article generator help!
+Thanks to Kelvin (@loweehahn on CodePen) for the Wikipedia random article generator help!
 
 MR
